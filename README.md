@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Afaf Khaled Tawfik👋  
+# Hi, I'm Afaf Khaled Tawfik 👋
 
 🎓 Fresh Graduate from the **Faculty of Computer and Information Sciences, Ain Shams University** (CGPA: 3.67/4 – B+)  
 💻 **Flutter Developer** | Passionate about building scalable, cross-platform mobile applications  
+💡 *Always learning, always building!*  
 ✨ Strong foundation in **Computer Science fundamentals** (Data Structures, Algorithms, OOP, Databases)  
-
+ 
 ---
 
 ## 🚀 Tech Stack & Skills
@@ -66,12 +67,11 @@ Here are some ideas to get you started:
 ## 🏆 Achievements
 - Graduated with **CGPA 3.67/4 (B+)** from Ain Shams University  
 - **Graduation Project (Gymer)** awarded **Grade A**  
-- Completed multiple academic and self-learning projects applying modern software principles  
+- Completed multiple academic and self-learning projects applying modern software principles
 
 ---
 
-## 📫 Connect with Me
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/afaf-khaled">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="35"/>
   </a>
@@ -81,6 +81,7 @@ Here are some ideas to get you started:
   <a href="mailto:afafkhaled56@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="35"/>
   </a>
-</p> 
-
-💡 *Always learning, always building!*  
+  <a href="https://drive.google.com/file/d/1OZyFtDel0kKqm73GvaTwp3qIRc7A68GD/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/CV-4285F4?logo=googledrive&logoColor=white" height="35"/>
+  </a>
+</p>
